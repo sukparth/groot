@@ -1,0 +1,9 @@
+webhdfs = {
+            'host': None,
+            'port' : 50070
+          }
+
+webhcat = {
+            'host': None,
+            'port' : 50111
+          }
